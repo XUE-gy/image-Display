@@ -65,4 +65,4 @@ RTCP数据包的各个字段中携带的SSRC标识符是32位随机数，
 在RTP会话中必须是全局唯一的，用来标记参会者.通过ip或random不能唯一确定。
 采用附录a.6算法随机生成
    
-   
+![Image text]( https://github.com/XUE-gy/image-Display/blob/master/png/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
